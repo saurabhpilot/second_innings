@@ -3,7 +3,7 @@ This is second repository.
 
 ### reverseword.py
 
-Reverse the words passed at the input
+Print the words passed at the input in reverse
 
 ### listargv.py 
 
